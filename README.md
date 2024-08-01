@@ -1,5 +1,5 @@
 # Meta_Analysis
-A statistical technique called meta-analysis is used to methodically compile and examine the findings of several independent studies on a particular subject or research question. 
+# A statistical technique called meta-analysis is used to methodically compile and examine the findings of several independent studies on a particular subject or research question. 
 This method synthesizes a broader body of evidence than can be provided by a single study, enabling researchers to reach more reliable and applicable findings.
 
 # Crucial elements of meta-analysis consist of:
@@ -17,4 +17,4 @@ Give more accurate estimations of the effect sizes.
 Permit investigating discrepancies between studies
 Assist in identifying research gaps; Influence evidence-based practice and policy decisions
 
-# Meta-analyses are frequently used to summarize research findings and determine future research directions in domains like psychology, education, medicine, and the social sciences.
+# Meta-analyses are frequently used to summarize research findings and determine future research directions in domains like education, medicine, and the health sciences.
